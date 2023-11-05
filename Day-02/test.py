@@ -10,3 +10,5 @@ print(name[3:6])
 print('%s %d' % (name,age)) 
 txt1 = "My name is {fname}, I'm {old}".format(fname = name, old = age)        
 print(txt1)
+##reference for Reg expression : https://www.w3schools.com/python/python_regex.asp
+##pattern r("") ---> r stands for regular expression
